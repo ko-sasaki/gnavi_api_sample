@@ -73,7 +73,6 @@ class Gnavi_Api_Exec_Sample
             "latitude" => $this->latitude,
             "longitude" => $this->longitude,
             "range" => $this->range,
-            "keyid" => $this->access_key
         ];
     }
 
